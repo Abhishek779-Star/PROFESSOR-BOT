@@ -50,11 +50,11 @@
 <summary><b>Variables</b></summary>
   
 ### Required Variables
-* `BOT_TOKEN`: Create a bot using [@BotFather](https://telegram.dog/BotFather), and get the Telegram API token.
-* `API_ID`: Get this value from [telegram.org](https://my.telegram.org/apps)
-* `API_HASH`: Get this value from [telegram.org](https://my.telegram.org/apps)
+* `BOT_TOKEN`:7324621177:AAGXo8-D1dSk10vMRnz3OfTc_NGJ0t52Edg
+* `API_ID`: Get this value from [telegram.(https://my.telegram.org/apps)
+* `API_HASH`:e50b6c6e9dc8077ec3e9db0e565631e4
 * `CHANNELS`: Username or ID of channel or group. Separate multiple IDs by space
-* `ADMINS`: Username or ID of Admin. Separate multiple Admins by space
+* `ADMINS`:6570474744
 * `DATABASE_URL`: [mongoDB](https://www.mongodb.com) URI. Get this value from [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `DATABASE_NAME`: Name of the database in [mongoDB](https://www.mongodb.com). For more help watch this [video](https://youtu.be/1G1XwEOnxxo)
 * `LOG_CHANNEL` : A channel to log the activities of bot. Make sure bot is an admin in the channel.
